@@ -1,7 +1,7 @@
 # edd-capstone-marsalek-j
 # EDD Capstone Project
 
-**Student:** Your Name  
+**Student:** Justin Marsalek
 **Course:** PLTW Honors EDD  
 **Status:** Early individual planning; project concept and partnership are not final
 
