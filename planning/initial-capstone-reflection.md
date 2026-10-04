@@ -186,21 +186,11 @@ If I cannot find a reliable partner, I would consider working individually rathe
 
 ## 8. Questions and Clarifications
 
-1. Which sensors, motors, controllers, and other components will be available in the lab for the capstone?
+1. How will the 250 g filament limit be measured when failed prototypes and test prints are included?
 
-2. How will the 250 g filament limit be measured when failed prototypes and test prints are included?
+2. How much existing code can be used if it is understood, modified, and properly cited?
 
-3. Which student-purchased components require pre-approval?
-
-4. How much existing code can be used if it is understood, modified, and properly cited?
-
-5. For the early bird requirement, do all five functional categories need to be integrated into the same physical prototype?
-
-6. If testing shows that my original concept is impractical, how late can I change the project concept?
-
-7. Are there any specific restrictions on what objects can be used to test an automated sorting system?
-
-8. Are the dates in the current instruction document expected to remain the same for next semester?
+3. If testing shows that my original concept is impractical, how late can I change the project concept?
 
 ---
 
@@ -210,21 +200,11 @@ If I cannot find a reliable partner, I would consider working individually rathe
 
 2. **Check available lab components** to determine which sensors, motors, displays, and controllers could be used without purchasing unnecessary parts.
 
-3. **Research possible sensors** for the recycling sorter and determine what information they can realistically provide.
+3. **Research possible sensors** for the automatic feeder and determine what information they can realistically provide.
 
 4. **Create a preliminary system diagram** showing the controller, manual input, sensors, display, actuator, and mechanical mechanism.
 
 5. **Build a sensor test circuit** to determine whether a potential sensor provides consistent readings.
-
-6. **Prototype a servo-controlled gate** and test whether it can repeatedly move between positions without jamming.
-
-7. **Create a basic software test** that reads an input, processes sensor information, and controls an actuator.
-
-8. **Estimate the project's cost and filament use** before beginning the final design.
-
-9. **Research existing automated sorting mechanisms** for ideas while documenting the sources that influenced my design.
-
-10. **Decide whether to work individually or with a partner** based on reliability, communication, skills, and expected workload.
 
 ---
 
