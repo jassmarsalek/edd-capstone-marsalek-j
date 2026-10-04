@@ -131,17 +131,15 @@ This project would use a distance sensor to detect the position of a model vehic
 
 ## 5. Current Front-Runner
 
-My current front-runner is the **Smart Recycling Sorter**.
+My current front-runner is the **Smart Automatic Pet Feeder**.
 
-I think this idea has the strongest potential because all five required categories naturally contribute to the same overall function. A user could start the system, a sensor could detect an object, the controller could process the information, the display could show the system's status, and a servo-powered mechanism could physically sort the object.
+This concept has strong potential because it naturally combines all five required categories into one system. The user provides an input, sensors collect information automatically, the controller processes that information, the display communicates the system's status, and the motorized mechanism dispenses the food.
 
-The project would also provide opportunities for meaningful research. I would need to research sensors, object detection, servo mechanisms, mechanical gates, control logic, and testing methods. This would give me opportunities to make my own design decisions instead of simply following an existing tutorial.
+The project also has a clear purpose and gives me opportunities for meaningful research. I would need to investigate sensors, dispensing mechanisms, servo motors, portion control, programming logic, and reliability testing. This would allow me to develop the project rather than simply copy an existing design.
 
-Cost and construction are also important. I could use components already available in the lab and keep the mechanical structure relatively small to stay within the 250 g filament and $20 purchased-parts limits.
+The project could also stay within the material limits if I keep the design compact and use components already available in the lab. The 250 g filament and $20 purchased-part limits make it important to avoid unnecessary parts and keep the mechanism simple.
 
-The biggest concern is complexity. If accurately identifying materials requires too many sensors or expensive components, I may need to simplify the system. I would rather build a smaller system that operates reliably than make the project unnecessarily complicated.
-
-This is only my current front-runner and is not a final commitment. I need to research the available components and test the concept before making a final decision.
+The biggest concern is reliability. If the dispenser releases too much food, too little food, or gets stuck, the system would not work as intended. I may need to test multiple dispensing mechanisms and simplify the design if necessary. A smaller feeder that consistently dispenses the correct amount would be more valuable than an overly complicated project that is unreliable.
 
 ---
 
