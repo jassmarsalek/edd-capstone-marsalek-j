@@ -145,45 +145,30 @@ The biggest concern is reliability. If the dispenser releases too much food, too
 
 ## 6. Anticipated Challenges
 
-### Challenge 1: Mechanical Construction
+### 1. Mechanical Dispensing Mechanism
 
-**Why it matters:**
-The sorting mechanism needs to move consistently. A gate that jams or does not return to the correct position could cause the entire system to fail.
+**Why it matters:** If the dispensing mechanism jams or moves inconsistently, the feeder will not be able to dispense food reliably.
+**Possible preparation/test:** Build a simple prototype of the dispenser and repeatedly test the servo's movement before creating the final mechanism.
 
-**Possible preparation or test:**
-Build a simple prototype of the gate and repeatedly test the servo movement before designing the final mechanism.
+### 2. Portion Consistency
 
-### Challenge 2: Sensor Reliability
+**Why it matters:** The feeder needs to dispense a consistent amount of food each time. Different amounts could make the system less useful and reliable.
+**Possible preparation/test:** Test the dispenser multiple times and measure the amount released each time. I can use the results to adjust the mechanism or program.
 
-**Why it matters:**
-The controller will make decisions based on sensor information. Incorrect or inconsistent readings could cause the system to sort objects incorrectly.
+### 3. Hardware and Software Integration
 
-**Possible preparation or test:**
-Test possible sensors independently and record repeated readings under the same conditions. Determine whether thresholds or filtering are needed.
+**Why it matters:** All five categories need to work together as one system rather than functioning independently.
+**Possible preparation/test:** Build the project in stages: user input and sensor first, then the display, then the actuator, and finally combine everything into the complete system.
 
-### Challenge 3: Electronics and Programming Integration
+### 4. Material and Cost Limits
 
-**Why it matters:**
-The sensor, buttons, display, controller, and servo all need to communicate correctly. A problem in one part could affect the entire system.
+**Why it matters:** The project has strict limits on filament and purchased parts.
+**Possible preparation/test:** Make a parts list and estimate both cost and filament use before building the final design.
 
-**Possible preparation or test:**
-Build the project in stages. Test the sensor first, then the input and display, then the actuator, and finally combine everything.
+### 5. Final Reliability
 
-### Challenge 4: Time and Cost
-
-**Why it matters:**
-The project has limits on both time and materials. An overly complicated design could require too many prototypes or expensive components.
-
-**Possible preparation or test:**
-Create a preliminary parts list and system diagram before beginning construction. Estimate cost and filament use before creating the final design.
-
-### Challenge 5: Reliability and Safety
-
-**Why it matters:**
-The final device needs to work consistently and safely during the demonstration.
-
-**Possible preparation or test:**
-Perform repeated complete-system tests and inspect wiring and moving mechanisms regularly. Record failures and correct them before the final demonstration.
+**Why it matters:** The grading system emphasizes repeatable operation, and an unreliable feeder could fail during the final demonstration.
+**Possible preparation/test:** Run repeated complete-system feeding tests and record failures so I can fix problems before the final demonstration.
 
 ---
 
